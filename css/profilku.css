@@ -1,0 +1,61 @@
+body{
+	background:url("http://backgroundcheckall.com/wp-content/uploads/2017/12/login-background-image-5.png") no-repeat fixed;
+	margin: 0px;
+}
+#logo{
+    width: 100%;
+    background: url(https://cdn.idntimes.com/content-images/post/20170314/braintree1-9f430d4…_600x400.jpg) no-repeat fixed;
+    padding: 0pX;
+    background-size: 100%;
+    text-align: center;
+    font-size: 90PX;
+    font-weight: bold;
+    font-family: calibri;
+    color: #9ad0f5;
+    -webkit-text-stroke: 2px #333;
+}
+#kertas1{
+	max-width: 768px;
+	float: left;
+}
+#gambar{
+width: 37%;
+    float: right;
+    margin-top: 120px;
+}
+img{
+	margin: 5px;
+}
+#sosmed{
+	width: 15%;
+	text-align: center;
+	margin: 0px 15px;
+}
+#kertas2{
+background-color: #fff;
+    width: 100%;
+    padding: 20px;
+    float: left;
+    box-shadow: 8px 3px #3c3a3a70;
+}
+#Judul{
+    background: #9ad0f5;
+    width: 104%;
+    float: left;
+    padding: 15px 0px;
+    text-align: center;
+    font-family: calibri;
+    border: 5px solid #4389b9;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 25px;
+}
+#profil{
+	line-height: 1.9em;
+    font-size: 20px;
+    padding: 20px;
+}
+#profil2{
+	line-height: 1.9em;
+	float: left;
+}
